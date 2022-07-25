@@ -28,7 +28,7 @@ Upon launching the financial_planning_tools.ipynb run each cell sequentially, en
 
 This analysis visulizes the trend in housing units per year in San Francisco from 2010 - 2016.
 
-![Housing Units Graph](Images/zoomed_housing_units_by_year.png)
+![Housing Units Graph](Images/zoomed-housing-units-by-year.png)
 
 ### Calculate and Pot the Average Sale Prices per Square Foot and Gross rent
 
